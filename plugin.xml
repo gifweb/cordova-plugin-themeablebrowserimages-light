@@ -44,6 +44,8 @@
         <resource-file src="src/android/res/drawable-xhdpi/back_pressed.png" target="res/drawable-xhdpi/back_pressed.png" />
         <resource-file src="src/android/res/drawable-xhdpi/forward.png" target="res/drawable-xhdpi/forward.png" />
         <resource-file src="src/android/res/drawable-xhdpi/forward_pressed.png" target="res/drawable-xhdpi/forward_pressed.png" />
+        <resource-file src="src/android/res/drawable-xhdpi/share.png" target="res/drawable-xhdpi/share.png" />
+        <resource-file src="src/android/res/drawable-xhdpi/share_pressed.png" target="res/drawable-xhdpi/share_pressed.png" />
     </platform>
 
     <!-- ios -->
@@ -56,6 +58,8 @@
         <resource-file src="src/ios/Resources/back_pressed@2x.png" target="Resources/back_pressed@2x.png" />
         <resource-file src="src/ios/Resources/forward@2x.png" target="Resources/forward@2x.png" />
         <resource-file src="src/ios/Resources/forward_pressed@2x.png" target="Resources/forward_pressed@2x.png" />
+        <resource-file src="src/ios/Resources/share@2x.png" target="Resources/share@2x.png" />
+        <resource-file src="src/ios/Resources/share_pressed@2x.png" target="Resources/share_pressed@2x.png" />
 
     </platform>
 </plugin>
